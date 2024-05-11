@@ -1,5 +1,8 @@
 # Streamlit_App
 
+![image](https://github.com/AIINFOZB/CLF_Streamlit_App/assets/168772150/4d8389f8-4a46-47da-894a-2561d0f81d37)
+
+
 link :https://carsmoldova01.streamlit.app/
 
 This project demonstrates how to present machine learning solution as a web application using Streamlit framework. The data used in this repo is the Cars_Moldova dataset from Kaggle.
