@@ -1,6 +1,6 @@
 # Streamlit_App
 
-link :https://carsmoldova.streamlit.app/
+link :https://carsmoldova01.streamlit.app/
 
 This project demonstrates how to present machine learning solution as a web application using Streamlit framework. The data used in this repo is the Cars_Moldova dataset from Kaggle.
 
